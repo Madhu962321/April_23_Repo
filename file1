@@ -2,3 +2,5 @@
 apt update -y
 apt intall ngnix -y
 
+adding new line]
+updating the existing file
